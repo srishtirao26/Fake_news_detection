@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction using Machine Learning
+#  Heart Disease Prediction using Machine Learning
 
 This project predicts the likelihood of heart disease using machine learning techniques. It includes data preprocessing, exploratory analysis, model training, and performance evaluation to classify patients as having heart disease or not based on their medical attributes.
 
