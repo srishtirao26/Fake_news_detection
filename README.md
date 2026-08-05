@@ -1,0 +1,1 @@
+This project forecasts monthly retail sales for the next 12 months using 4 years of historical order data. The specific question I answer is: does a model that explicitly accounts for yearly seasonality (SARIMA, Holt-Winters) forecast better than a model that does not (plain ARIMA), and by how much?
